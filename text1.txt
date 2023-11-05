@@ -1,0 +1,2 @@
+hi my Name is Vicky This is my second project 
+created a amazon interface clone using HTML and CSS.
